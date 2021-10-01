@@ -8,11 +8,11 @@ author: |
 #date: "13 September 2021"
 output:
   beamer_presentation:
-    theme: metropolis # CambridgeUS
+    #theme: metropolis # CambridgeUS
     includes:
       in_header: mystyle.tex
   slidy_presentation: default
-fontsize: 11pt
+fontsize: 10pt
 ---
 
 ## Outline
@@ -27,11 +27,21 @@ fontsize: 11pt
   \item Exercise: Intellectual puzzles.
 \end{itemize}
 
-## Introductions: About myself
+## Introductions: About me
 
-xxx.
+\begin{itemize}
+  \item Education and professional experiences
+  \begin{itemize}
+    \item Undergraduate studies in Taiwan, Hong Kong and Galway (Ireland) (2003-2008).
+    \item MA and PhD in political science, Columbia and UCLA (2011 and 2019). 
+    \item Postdoctoral researcher in political science and computational social science, Tsinghua (2019-2020).
+    \item Fellow in international development and methodology, LSE (2020-present).
+  \end{itemize}
+  \item Research interests: Political economy of development and institutions in multi-ethnic societies.
+  \item Research methods: Computational, qualitative, and quantitative.
+\end{itemize}
 
-## Introductions: About you.
+## Introductions
 
 Now let's hear from you all.
 
@@ -40,9 +50,9 @@ Now let's hear from you all.
 \begin{itemize}
   \item Our seminars are all at capacity – given student numbers, changing enrollments will be extremely hard.
   \vspace{0.2cm}
-  \item If you have to move to another group temporarily (e.g., doctor’s appointment, need to self-isolate) -- \textbf{Email your seminar teacher and the teacher of the group you wish to attend}.
+  \item If you have to move to another group temporarily (e.g., doctor’s appointment, need to self-isolate), please \textbf{email your seminar teacher and the teacher of the group you wish to attend}.
   \vspace{0.2cm}
-  \item Attendance is compulsory. We take registers at each seminar -- \textbf{If you have to temporarily move seminar, let your teachers know, and you’ll be marked present}.
+  \item Attendance is compulsory. We take registers at each seminar. \textbf{If you have to temporarily move seminar, let your teachers know, and you’ll be marked present}.
 \end{itemize}
 
 ## Pandemic academic life: 4 principles
