@@ -41,6 +41,17 @@ fontsize: 10pt
   \item Research methods: Computational, qualitative, and quantitative.
 \end{itemize}
 
+## Introductions: About me
+
+\begin{itemize}
+  \item Energy poverty in rural India -- a large-scale household survey across six states (\textit{Nature Energy}, 2016).
+  \item Election of criminal politicians and socioeconomic development in rural India (\textit{Studies in Comparative International Development}, 2019).
+  \item Political representation and inequality in local public goods provision in rural India (\textit{Journal of Public Policy}, 2021).
+  \item Ethnic local autonomy and nation-state building in post-1949 China (book manuscript).
+  \item Empowerment of ethnic minorities/indigenous groups and environmental conservation in China, Malaysia, and Indonesia (work in progress).
+  \item Local politics of judicial reform and environmental governance in China: Evidence from court transcripts (work in progress).
+\end{itemize}
+
 ## Introductions
 
 Now let's hear from you all.
@@ -93,7 +104,11 @@ Now let's hear from you all.
 
 ## Why MY410?
 
-xxx.
+\begin{itemize}
+  \item Why do you need MY410?
+  \item What does MY410 do (and doesn't do)?
+  \item What would you like to get out of MY410?
+\end{itemize}
 
 ## Intellectual puzzles: A typology (Mason, 2002)
 
