@@ -32,8 +32,8 @@ fontsize: 10pt
 \begin{itemize}
   \item Education and professional experiences
   \begin{itemize}
-    \item Undergraduate studies in Taiwan, Hong Kong and Galway (Ireland) (2003-2008).
-    \item MA and PhD in political science, Columbia and UCLA (2011 and 2019). 
+    \item Undergraduate studies in Taiwan (2003-2008), Hong Kong (2005-2006) and Galway (2007).
+    \item MA and PhD in political science from New York and Los Angeles (2011 and 2019). 
     \item Postdoctoral researcher in political science and computational social science, Tsinghua (2019-2020).
     \item Fellow in international development and methodology, LSE (2020-present).
   \end{itemize}
