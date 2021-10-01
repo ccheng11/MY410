@@ -6,4 +6,4 @@ MY410 is a compulsory module for all MSc students in the Department of Internati
 
 If you have any questions, please email me at c.cheng23@lse.ac.uk.
 
-Date： 1 October 2021
+Date: 1 October 2021
