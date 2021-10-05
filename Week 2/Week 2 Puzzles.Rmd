@@ -54,7 +54,7 @@ fontsize: 10pt
 
 ## Introductions
 
-Now let's hear from you all.
+Now let's hear from you all. \pause Please share with us your name, MSc programme, undergraduate major and/or professional experiences, and one thing interesting about you.
 
 ## Seminar groups
 
@@ -85,8 +85,9 @@ Now let's hear from you all.
   \item \textbf{Good communication}. We want to make this \textit{fantastic}: Please be your own best advocate and give us feedback and constructive suggestions!
   \begin{small}
   \begin{itemize}
-    \item Course forum: questions? Others will have them too. Put them on the forum.
-    \item Office hours: Book on Student Hub (Tuesdays 12pm-2pm) -- we want to meet you!
+    \item Course forum: Questions? Others will have them too. Put them on \textbf{Moodle}.
+    \item Seminar slides: They will be updated on my \textbf{Github} page (\url{https://github.com/ccheng11/MY410}).
+    \item Office hours: Book on \textbf{Student Hub} (Tuesdays 12pm-2pm; CON 8.01) -- I want to meet you!
   \end{itemize}
   \end{small}
   \item \textbf{Safety}. We all want to keep you safe during your class but need to work collaboratively with you to make that happen!
