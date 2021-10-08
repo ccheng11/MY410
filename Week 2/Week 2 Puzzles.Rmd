@@ -115,9 +115,9 @@ Now let's hear from you all. \pause Please share with us your name, MSc programm
 
 \begin{itemize}
   \item Developmental puzzle.
-  \item Mechanical puzzles.
-  \item Comparative puzzles.
-  \item Causal/predictive puzzles.
+  \item Mechanical puzzle.
+  \item Comparative puzzle.
+  \item Causal/predictive puzzle.
 \end{itemize}
 
 ## Exercise: Trying out Mason's categories
