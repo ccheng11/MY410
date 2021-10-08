@@ -19,42 +19,13 @@ fontsize: 10pt
 
 \begin{itemize}
   \item Introductions.
-  \item Practicalities and ''ground rules.''
+  \item Practicalities and "ground rules."
   \begin{itemize}
     \item Principles for academic life during the pandemic.
     \item Why MY410?
   \end{itemize}
   \item Exercise: Intellectual puzzles.
 \end{itemize}
-
-## Introductions: About me
-
-\begin{itemize}
-  \item Education and professional experiences
-  \begin{itemize}
-    \item Undergraduate studies in Taiwan (2003-2008), Hong Kong (2005-2006) and Galway, Ireland (2007).
-    \item MA and PhD in political science from New York and Los Angeles (2011 and 2019). 
-    \item Postdoctoral researcher in political science and computational social science, Tsinghua (2019-2020).
-    \item Fellow in international development and methodology, LSE (2020-present).
-  \end{itemize}
-  \item Research interests: Political economy of development and institutions in multi-ethnic societies.
-  \item Research methods: Computational, qualitative, and quantitative.
-\end{itemize}
-
-## Introductions: About me
-
-\begin{itemize}
-  \item Energy poverty in rural India -- a large-scale household survey across six states (\textit{Nature Energy}, 2016).
-  \item Election of criminal politicians and socioeconomic development in rural India (\textit{Studies in Comparative International Development}, 2019).
-  \item Political representation and inequality in electricity supply in rural India (\textit{Journal of Public Policy}, 2021).
-  \item Ethnic local autonomy and nation-state building in post-1949 China (book manuscript).
-  \item Empowerment of ethnic minorities/indigenous groups and environmental conservation in China, Malaysia, and Indonesia (work in progress).
-  \item Local politics of judicial reform and environmental governance in China: Evidence from court transcripts (work in progress).
-\end{itemize}
-
-## Introductions
-
-Now let's hear from you all. \pause Please share with us your name, MSc programme, undergraduate major and/or professional experiences, and one thing interesting about you.
 
 ## Seminar groups
 
