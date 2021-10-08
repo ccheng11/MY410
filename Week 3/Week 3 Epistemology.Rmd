@@ -37,7 +37,7 @@ xxx.
 	\item Ensuring that your work has such fit is essential to producing \textbf{valuable and valid} social science.
 \end{itemize}
 
-## Warm-up: Sumner \& Tribe ()
+## Warm-up: Sumner \& Tribe (2004)
 
 \begin{itemize}
   \item Let's break into pairs to review different sections of the article.
@@ -45,4 +45,60 @@ xxx.
   \begin{itemize}
     \item xxx.
   \end{itemize}
+\end{itemize}
+
+## Epistemology in intl development studies
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.55]{Figs/epis}
+\end{figure}
+\begin{center}
+\begin{scriptsize}
+Sumner, A, and M Tribe. 2008. \textit{International Development Studies}. London: Sage, p.72.
+\end{scriptsize}
+\end{center}
+
+## Epistemology in intl development studies
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.55]{Figs/wb}
+\end{figure}
+\begin{center}
+\begin{scriptsize}
+World Bank. 2001. \textit{World Development Report 2000/2001: Attacking Poverty}. Oxford: OUP, pp.34-35.
+\end{scriptsize}
+\end{center}
+
+## Epistemology in intl development studies
+
+``\textbf{Is development studies an objective, natural science-like search for one ‘truth’ or is it a subjective, constructivist search for many ‘truths’, or is it perhaps both?}'' (Sumner \& Tribe, 2004)
+
+\pause
+\vspace{0.4cm}
+Given that the authors say that ``\textit{across every conceivable fault-line the two approaches (i.e., positivism and constructivism) sit diametrically opposed},'' how can the answer possibly be \textit{both}?
+
+## Exercise 2: RQ and Design
+
+\begin{itemize}
+  \item Let's break into small groups and/or pairs again.
+  \item Take an important issue in development studies (e.g., poverty, inequality, corruption, violence/conflict, etc.).
+  \item Come up with a research question.
+  \begin{itemize}
+    \item xxx.
+  \end{itemize}
+  \item Given your question, what will be the associated design? And what is the possible misaligned design?
+\end{itemize}
+
+## Exercise 2: RQ and Design
+
+\begin{itemize}
+  \item Additional issues to consider here.
+  \begin{itemize}
+    \item Limitations.
+    \item Trade-offs.
+    \item Feasibility.
+  \end{itemize}
+  \item How do you ensure rigor in your project?
 \end{itemize}
