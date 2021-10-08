@@ -73,11 +73,11 @@ World Bank. 2001. \textit{World Development Report 2000/2001: Attacking Poverty}
 
 ## Epistemology in intl development studies
 
-``\textbf{Is development studies an objective, natural science-like search for one ‘truth’ or is it a subjective, constructivist search for many ‘truths’, or is it perhaps both?}'' (Sumner \& Tribe, 2004)
+"\textbf{Is development studies an objective, natural science-like search for one ‘truth’ or is it a subjective, constructivist search for many ‘truths’, or is it perhaps both?}" (Sumner \& Tribe, 2004)
 
 \pause
 \vspace{0.4cm}
-Given that the authors say that ``\textit{across every conceivable fault-line the two approaches (i.e., positivism and constructivism) sit diametrically opposed},'' how can the answer possibly be \textit{both}?
+And yet, given that the authors say that "\textit{across every conceivable fault-line the two approaches (i.e., positivism and constructivism) sit diametrically opposed}," how can the answer possibly be \textit{both}?
 
 ## Exercise 2: RQ and Design
 
@@ -88,7 +88,7 @@ Given that the authors say that ``\textit{across every conceivable fault-line th
   \begin{itemize}
     \item xxx.
   \end{itemize}
-  \item Given your question, what will be the associated design? And what is the possible misaligned design?
+  \item Given your question, what will be the associated design? And what is a possible misaligned design?
 \end{itemize}
 
 ## Exercise 2: RQ and Design
