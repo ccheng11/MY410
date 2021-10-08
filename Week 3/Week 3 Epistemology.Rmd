@@ -1,0 +1,48 @@
+---
+title: |
+  | MY410: Seminar Week 3
+  |
+author: |
+  | Chao-Yo Cheng
+  |
+#date: "13 September 2021"
+output:
+  beamer_presentation:
+    #theme: metropolis # CambridgeUS
+    includes:
+      in_header: mystyle.tex
+  slidy_presentation: default
+fontsize: 10pt
+---
+
+## Pre-seminar checks
+
+\begin{itemize}
+	\item How are things going? 
+	\item How are the lecture videos?
+	\item How is the seminar structure? In person and online both going well?
+	\item Any questions/issues/things to flag up?
+\end{itemize}
+
+## WK2 seminar refresher
+
+xxx.
+
+## WK3 Lecture Takeaway
+
+\begin{itemize}
+	\item There is not one ``best'' method -- yes, but why? 
+	\item There should always be clear \textbf{congruence} between theory, question, and method.
+	\item Evaluating this fit is a fundamental part of being a \textbf{critical reader}.
+	\item Ensuring that your work has such fit is essential to producing \textbf{valuable and valid} social science.
+\end{itemize}
+
+## Warm-up: Sumner \& Tribe ()
+
+\begin{itemize}
+  \item Let's break into pairs to review different sections of the article.
+  \item Let's focus on the following tasks for the time being.
+  \begin{itemize}
+    \item xxx.
+  \end{itemize}
+\end{itemize}
