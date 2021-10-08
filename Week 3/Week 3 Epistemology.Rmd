@@ -20,7 +20,6 @@ fontsize: 10pt
 \begin{itemize}
 	\item How are things going? 
 	\item How are the lecture videos?
-	\item How is the seminar structure? In person and online both going well?
 	\item Any questions/issues/things to flag up?
 \end{itemize}
 
