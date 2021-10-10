@@ -4,7 +4,7 @@
 
 Here you can find the slides for MY410 seminars (MT 2021).
 
-To access the slides, choose the respective week and click on the PDF file.
+To access the slides, select the respective week and click on the PDF file.
 
 MY410 is a compulsory module for MSc students in the Department of International Development at the London School of Economics and Political Science. For more information on MY410, see https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/MY/2021_MY410.htm.
 
