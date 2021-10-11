@@ -25,9 +25,20 @@ fontsize: 10pt
 
 ## WK2 seminar refresher
 
-xxx.
+\begin{itemize}
+  \item Mason's categories provide a useful starting point, but they not mutually exclusive. Certainly it is not the only typology available out there.
+  \pause
+  \item A research project can address one or more of the following questions -- for instance,
+  \begin{itemize}
+    \item How and why does X happen? Under what conditions will we see X?
+    \item Do these conditions ``cause'' X?
+    \item How and why do these different conditions lead to X?
+    \item Why does X happen in some places but not others? Why does X happen in some years but not others?
+  \end{itemize}
+  \item Note that we never intend to match these RQs to any specific methods.
+\end{itemize}
 
-## WK3 Lecture Takeaway
+## WK3 Lecture takeaway
 
 \begin{itemize}
 	\item There is not one ``best'' method -- yes, but why? 
@@ -40,10 +51,13 @@ xxx.
 
 \begin{itemize}
   \item Let's break into pairs to review different sections of the article.
-  \item Let's focus on the following tasks for the time being.
+  \item Focus on the following tasks/questions:
   \begin{itemize}
-    \item xxx.
-  \end{itemize}
+	  \item What is epistemology? According to the authors, how many epistemological positions are common in international development studies?
+	  \item What do the authors mean by ``rigor?'' Why is it in scare-quotes?
+	  \item What are the ``problems'' in development? 
+	  \item The authors discuss descriptive, exploratory, explanatory research -- what does each of them do?
+	\end{itemize}
 \end{itemize}
 
 ## Epistemology in intl development studies
@@ -78,26 +92,28 @@ World Bank. 2001. \textit{World Development Report 2000/2001: Attacking Poverty}
 \vspace{0.4cm}
 And yet, given that the authors say that "\textit{across every conceivable fault-line the two approaches (i.e., positivism and constructivism) sit diametrically opposed}," how can the answer possibly be \textit{both}?
 
-## Exercise 2: RQ and Design
+## Exercise: RQ and Design
 
 \begin{itemize}
   \item Let's break into small groups and/or pairs again.
-  \item Take an important issue in development studies (e.g., poverty, inequality, corruption, violence/conflict, etc.).
+  \item Take a problem in development (e.g., poverty, inequality, corruption, violence/conflict, etc.).
   \item Come up with a research question.
   \begin{itemize}
-    \item xxx.
+    \item Mason (2002): Developmental, mechanical, causal/predictive, and/or comparative?
+    \item Sumner \& Tribe (2004): Descriptive, explanatory, and/or interpretative? Causes of effects and/or effects of causes? Positivist and/or constructivist/Interpretivist?
   \end{itemize}
   \item Given your question, what will be the associated design? And what is a possible misaligned design?
 \end{itemize}
 
-## Exercise 2: RQ and Design
+## Exercise: RQ and Design
 
 \begin{itemize}
-  \item Additional issues to consider here.
+  \item What are the ``question'' words you’re using -- what? why? how? does?
+  \item Additional issues associated with various questions and designs.
   \begin{itemize}
     \item Limitations.
     \item Trade-offs.
     \item Feasibility.
   \end{itemize}
-  \item How do you ensure rigor in your project?
+  \item How do you ensure \textbf{rigor} in your project?
 \end{itemize}
