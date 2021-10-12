@@ -64,6 +64,13 @@ fontsize: 10pt
 
 \begin{figure}
 \centering
+\includegraphics[scale=0.7]{Figs/epis_com}
+\end{figure}
+
+## Epistemology in intl development studies
+
+\begin{figure}
+\centering
 \includegraphics[scale=0.55]{Figs/epis}
 \end{figure}
 \begin{center}
@@ -108,7 +115,7 @@ And yet, given that the authors say that "\textit{across every conceivable fault
 ## Exercise: RQ and Design
 
 \begin{itemize}
-  \item What are the ``question'' words you’re using -- what? why? how? does?
+  \item What are the ``question'' words you are using -- what? why? how? does? 
   \item Additional issues associated with various questions and designs.
   \begin{itemize}
     \item Limitations.
