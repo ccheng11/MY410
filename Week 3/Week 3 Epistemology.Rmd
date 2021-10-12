@@ -117,5 +117,5 @@ Sumner, A, and M Tribe. 2008. \textit{International Development Studies}. London
 \begin{itemize}
   \item What are the ``question'' words you are using (e.g, what? why? how? does?) 
   \item Additional issues associated with various questions and designs. Limitations? Trade-offs? Feasibility?
-  \item How do you ensure \textbf{rigor} in your project? \pause Clarity, alignment, and bias.
+  \item How do you ensure \textbf{rigor} in your project? \pause Clarity, alignment, and a thoughtful reflection on any potential sources of bias.
 \end{itemize}
