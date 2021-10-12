@@ -54,9 +54,9 @@ fontsize: 10pt
   \item Focus on the following tasks/questions:
   \begin{itemize}
 	  \item What is epistemology? According to the authors, how many epistemological positions are common in international development studies?
-	  \item What do the authors mean by ``rigor?'' Why is it in scare-quotes?
 	  \item What are the ``problems'' in development? 
 	  \item The authors discuss descriptive, exploratory, explanatory research -- what does each of them do?
+	  \item What do the authors mean by ``rigor?'' Why is it in scare-quotes?
 	\end{itemize}
 \end{itemize}
 
@@ -66,18 +66,6 @@ fontsize: 10pt
 \centering
 \includegraphics[scale=0.7]{Figs/epis_com}
 \end{figure}
-
-## Epistemology in intl development studies
-
-\begin{figure}
-\centering
-\includegraphics[scale=0.55]{Figs/epis}
-\end{figure}
-\begin{center}
-\begin{scriptsize}
-Sumner, A, and M Tribe. 2008. \textit{International Development Studies}. London: Sage, p.72.
-\end{scriptsize}
-\end{center}
 
 ## Epistemology in intl development studies
 
@@ -99,6 +87,18 @@ World Bank. 2001. \textit{World Development Report 2000/2001: Attacking Poverty}
 \vspace{0.4cm}
 And yet, given that the authors say that "\textit{across every conceivable fault-line the two approaches (i.e., positivism and constructivism) sit diametrically opposed}," how can the answer possibly be \textit{both}?
 
+## Epistemology in intl development studies
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.55]{Figs/epis}
+\end{figure}
+\begin{center}
+\begin{scriptsize}
+Sumner, A, and M Tribe. 2008. \textit{International Development Studies}. London: Sage, p.72.
+\end{scriptsize}
+\end{center}
+
 ## Exercise: RQ and Design
 
 \begin{itemize}
@@ -115,12 +115,7 @@ And yet, given that the authors say that "\textit{across every conceivable fault
 ## Exercise: RQ and Design
 
 \begin{itemize}
-  \item What are the ``question'' words you are using -- what? why? how? does? 
-  \item Additional issues associated with various questions and designs.
-  \begin{itemize}
-    \item Limitations.
-    \item Trade-offs.
-    \item Feasibility.
-  \end{itemize}
-  \item How do you ensure \textbf{rigor} in your project?
+  \item What are the ``question'' words you are using (e.g, what? why? how? does?) 
+  \item Additional issues associated with various questions and designs. Limitations? Trade-offs? Feasibility?
+  \item How do you ensure \textbf{rigor} in your project? \pause Clarity, alignment, and bias.
 \end{itemize}
