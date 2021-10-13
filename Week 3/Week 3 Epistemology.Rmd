@@ -38,7 +38,7 @@ fontsize: 10pt
   \item Note that we never intend to match these RQs to any specific methods.
 \end{itemize}
 
-## WK3 Lecture takeaway
+## WK3 lecture takeaway
 
 \begin{itemize}
 	\item There is not one ``best'' method -- yes, but why? 
