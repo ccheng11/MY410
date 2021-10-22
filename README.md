@@ -13,9 +13,10 @@ MY410 is a compulsory module for MSc students in the Department of International
 - Week 2: Introduction and Research Puzzles
 - Week 3: Epistemology in International Development Studies
 - Week 4: Theory and Data
+- Week 5: Plan for Formative Assignment
 
 ## Contact Information
 
 If you have any questions, please email me at c.cheng23@lse.ac.uk.
 
-Date: 19 October 2021
+Date: 22 October 2021
