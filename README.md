@@ -16,6 +16,7 @@ MY410 is a compulsory module for MSc students in the Department of International
 - Week 5: Doing Annotated Bibliography
 - Week 6 (reading week, no class)
 - Week 7: Case Studies
+- Week 8: Quantitative Research Designs
 
 ## Contact Information
 
