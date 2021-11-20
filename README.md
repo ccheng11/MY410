@@ -17,9 +17,10 @@ MY410 is a compulsory module for MSc students in the Department of International
 - Week 6 (reading week, no class)
 - Week 7: Case Studies
 - Week 8: Quantitative Research Designs
+- Week 9: Operationalization and Measurement
 
 ## Contact Information
 
 If you have any questions, please email c.cheng23[at]lse.ac.uk.
 
-Date: 5 November 2021
+Date: 20 November 2021
