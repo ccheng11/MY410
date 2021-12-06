@@ -19,7 +19,7 @@ MY410 is a compulsory module for MSc students in the Department of International
 - Week 8: Quantitative Research Designs
 - Week 9: Operationalization and Measurement
 - Week 10: Qualitative Research Designs
-- Week 11: Writing Research Proposals (TBA)
+- Week 11: Writing Research Proposals
 
 ## Contact Information
 
