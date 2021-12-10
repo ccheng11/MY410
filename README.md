@@ -10,10 +10,11 @@ MY410 is a compulsory module for MSc students in the Department of International
 
 ## Schedule
 
+- Week 1 (no class)
 - Week 2: Introduction and Research Puzzles
 - Week 3: Epistemology in International Development Studies
 - Week 4: Theory and Data
-- Week 5: Doing Annotated Bibliography
+- Week 5: Desk-based Research / Doing Annotated Bibliography
 - Week 6 (reading week, no class)
 - Week 7: Case Studies
 - Week 8: Quantitative Research Designs
@@ -23,6 +24,6 @@ MY410 is a compulsory module for MSc students in the Department of International
 
 ## Contact Information
 
-If you have any questions, please email c.cheng23[at]lse.ac.uk / chaoyo.cheng[at]icloud.com.
+If you have any questions, please email c.cheng23[at]lse.ac.uk OR chaoyo.cheng[at]icloud.com.
 
-Date: 8 December 2021
+Date: 10 December 2021
