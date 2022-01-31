@@ -24,6 +24,6 @@ MY410 is a compulsory module for MSc students in the Department of International
 
 ## Contact Information
 
-If you have any questions, please email chaoyo.cheng[at]icloud.com.
+If you have any questions, please email [chaoyo.cheng[at]icloud.com](mailto:chaoyo.cheng@icloud.com).
 
 Date: 10 December 2021
